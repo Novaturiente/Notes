@@ -39,6 +39,10 @@ tags: []
 -  diff
     Show changes after last commit
 
+-  stash
+    Keep the changes aside instead of commiting. Can be poped to use these stashed changes
+    git stash pop -> to use the stashed changes
+
 
 ### Branch management
 -  branch -a

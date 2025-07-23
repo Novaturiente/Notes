@@ -1,10 +1,10 @@
 ---
-id: linux
+id: Notes
 aliases: []
 tags: []
 ---
 
-# Programming Notes
+# _Programming Notes_
 
 -  Basiscs
 [[Git_basics]]
@@ -14,16 +14,16 @@ tags: []
 [[Neural Networks Guide]]
 
 
-## Python
+### Python
 [[LangGraph_tutorials]]
 [[Playwright_installation]]
 
 
-# Linux Notes 
+# _Linux Notes_
 
-## General configuration
+### General configuration
 [[Initial_setup]]
 
-## Blendos specific configuration
+### Blendos specific configuration
 [[blendos_containers]]
 
