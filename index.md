@@ -6,22 +6,23 @@ tags: []
 
 # Programming Notes
 
+-  Basiscs
+[[Git_basics]]
+
+-  Guides
 [[Github repos]]
 [[Neural Networks Guide]]
 
 
 ## Python
 [[LangGraph_tutorials]]
+[[Playwright_installation]]
 
 
 # Linux Notes 
 
 ## General configuration
 [[Initial_setup]]
-[[github_setup]]
-[[network_configuration]]
-[[flatpak_configuration]]
-[[Nix configuration]]
 
 ## Blendos specific configuration
 [[blendos_containers]]
