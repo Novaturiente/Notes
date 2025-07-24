@@ -6,7 +6,7 @@ tags: []
 
 # _Programming Notes_
 
--  Basiscs
+-  Basics
 [[Git_basics]]
 
 -  Guides
@@ -15,6 +15,9 @@ tags: []
 
 
 ### Python
+-  Basics
+[[Prallel_programing]]
+
 [[LangGraph_tutorials]]
 [[Playwright_installation]]
 
