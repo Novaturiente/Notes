@@ -18,8 +18,11 @@ tags: []
 -  Basics
 [[Prallel_programing]]
 
+- Tutorilas
 [[LangGraph_tutorials]]
 [[Playwright_installation]]
+
+
 
 
 # _Linux Notes_
