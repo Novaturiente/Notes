@@ -17,6 +17,7 @@ tags: []
 ### Python
 -  Basics
 [[Prallel_programing]]
+[[Pandas]]
 
 - Tutorilas
 [[LangGraph_tutorials]]
