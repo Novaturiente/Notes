@@ -30,6 +30,7 @@ tags: []
 
 ### General configuration
 [[Initial_setup]]
+[[Nvidia_setup]]
 
 ### Blendos specific configuration
 [[blendos_containers]]
